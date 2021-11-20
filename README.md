@@ -8,7 +8,7 @@ Until I figure out how to use this with [plug.kak](https://github.com/andreyorst
 - Clone this repo into `$kakrc_directory/plugins`
 - Include the following line in your Kakrc:
 ```
-source "%val{config}/plugins/uxn.kak/rc/filetype/tal.kak"
+source "%val{config}/plugins/uxntal.kak/rc/filetype/tal.kak"
 ```
 - Open any `.tal` file
 - Enjoy!
