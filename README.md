@@ -22,3 +22,7 @@ plug "https://git.sr.ht/~athorp96/uxntal.kak"
 source "%val{config}/plugins/uxntal.kak/rc/filetype/tal.kak"
 ```
 - Now in sessions of kakoune creating a buffer or opening a file with extension `.tal` will enable this syntax highlighting
+
+
+## Example syntax colors using the colorscheme Gruvbox
+![Example of the syntax using the colorscheme Gruvbox](example.png)
